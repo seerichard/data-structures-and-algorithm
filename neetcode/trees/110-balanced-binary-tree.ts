@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/balanced-binary-tree/
 
+// Time Complexity:  O(n)
 function isBalanced(root: TreeNode | null): boolean {
   // Set initial result to be a balanced tree
   let result = true;
